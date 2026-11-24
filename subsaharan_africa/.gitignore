@@ -6,6 +6,7 @@
 data/*
 !data/README.md
 !data/hrea_catalog.json
+!data/sub-saharan_health_facilities.xlsx
 
 # small committed sample (see scripts/make_sample.py)
 !data/sample/

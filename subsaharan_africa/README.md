@@ -100,6 +100,7 @@ subsaharan_africa/
 ├── figures/      # outputs referenced above
 ├── data/
 │   ├── sample/   # committed 5% Ghana prplit sample, 2013–2020
+│   ├── sub-saharan_health_facilities.xlsx  # facility locations (committed)
 │   └── README.md # how to obtain the full data (not committed: too large)
 └── docs/         # dataset notes and citations
 ```
@@ -124,5 +125,7 @@ The full dataset isn't included because the cleaned CSVs are about 27 MB per cou
 
 Electricity data: **High Resolution Electricity Access (HREA)**, University of Michigan.
 Brian Min, Zachary P. O'Keeffe, Babatunde Abidoye, Kwawu Mensan Gaba, Trevor Monroe, Benjamin P. Stewart, Kim Baugh, Bruno Sánchez-Andrade Nuño. "Lost in the Dark: A Survey of Energy Poverty from Space." *Joule* (2024). https://doi.org/10.1016/j.joule.2024.05.001
+
+Facility locations: Maina, J., Ouma, P. O., Macharia, P. M., et al. "A spatial database of health facilities managed by the public health sector in sub-Saharan Africa." *Scientific Data* 6, 134 (2019). https://doi.org/10.1038/s41597-019-0142-2
 
 Facility performance: DHS Program, Service Provision Assessment (SPA). https://dhsprogram.com/Methodology/Survey-Types/SPA.cfm

@@ -16,6 +16,7 @@ Topics include child health, antenatal care, delivery and newborn care, family p
 - Usage guide: https://dhsprogram.com/data/Using-DataSets-for-Analysis.cfm
 
 ## 3. Healthcare facility locations
-Geocoded list of public health facilities across Sub-Saharan Africa.
+Geocoded list of public-sector health facilities across Sub-Saharan Africa.
 
-- File: `sub-saharan_health_facilities.xlsx`
+- File: `sub-saharan_health_facilities.xlsx` (included in `data/`)
+- Citation: Maina, J., Ouma, P. O., Macharia, P. M., et al. "A spatial database of health facilities managed by the public health sector in sub-Saharan Africa." *Scientific Data* 6, 134 (2019). https://doi.org/10.1038/s41597-019-0142-2

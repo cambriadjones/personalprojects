@@ -30,9 +30,11 @@ Variables used:
 - `set_lightscore_<year>`: nighttime brightness score per settlement
 - `set_prplit_<year>`: proportion of nights a settlement is statistically brighter than matched uninhabited areas (reliability)
 
-### 2. Health facility locations
+### 2. Health facility locations (included)
 
-- File: `sub-saharan_health_facilities.xlsx` (columns include `Country`, `Lat`, `Long`)
+- File: [`sub-saharan_health_facilities.xlsx`](sub-saharan_health_facilities.xlsx), 5 MB, committed so Weeks 0–2 run after cloning
+- Columns: `Country`, `Admin1`, `Facility_n` (name), `Facility_t` (type), `Ownership`, `Lat`, `Long`, `LL_source`
+- Source: Maina, J., Ouma, P. O., Macharia, P. M., et al. "A spatial database of health facilities managed by the public health sector in sub-Saharan Africa." *Scientific Data* 6, 134 (2019). https://doi.org/10.1038/s41597-019-0142-2
 
 ### 3. Country boundaries
 
