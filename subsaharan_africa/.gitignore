@@ -1,0 +1,16 @@
+# raw / processed data (too large to commit)
+*.tif
+*.tiff
+*.csv
+*.xlsx
+data/*
+!data/README.md
+!data/hrea_catalog.json
+
+# small committed sample (see scripts/make_sample.py)
+!data/sample/
+!data/sample/**/*.csv
+
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
