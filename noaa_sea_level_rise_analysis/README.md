@@ -1,5 +1,7 @@
 # Ocean Sea Level and Atmospheric CO₂
 
+I started this research after severe ocean flooding hit my hometown. I wanted to understand, with data, how fast sea level is rising, what is driving it, and what coastal communities like mine might face in the coming decades.
+
 **Is the rise in sea level proportional to the rise in atmospheric CO₂?**
 
 This project compares 50+ years of global sea level measurements (EPA / CSIRO) with continuous atmospheric CO₂ readings from the Mauna Loa Observatory (Scripps). I fit polynomial models to each series, measured how fast each one changed across three decades using linear regression and LOWESS smoothing, and projected both to 2200 to test whether they grow in proportion.
